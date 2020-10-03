@@ -1,0 +1,2 @@
+# C++ .out files.
+a.out
